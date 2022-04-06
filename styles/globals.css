@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+ol li {
+  line-height: 25px;
+}

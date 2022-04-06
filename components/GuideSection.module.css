@@ -1,0 +1,52 @@
+.guideSectionWrapper {
+  min-height: 500px;
+  width: 100%;
+  background-color: #e9f1f3;
+  padding-bottom: 5%;
+}
+
+.guideIconWrapper {
+  padding-top: 10%;
+  margin: 0 auto;
+  width: 140px;
+  height: 140px;
+  color: #666666;
+}
+
+.icon {
+  width: 140px;
+  height: 140px;
+}
+
+.frameFocus {
+  opacity: 1;
+  transition: all 1s ease-out;
+}
+
+.frameFaded {
+  opacity: 0;
+  transition: all 1s ease-out;
+}
+
+.descriptionWrapper {
+  width: 80%;
+  margin: 0 auto;
+  padding: 15% 0 3% 0;
+  text-align: center;
+  font-size: 18px;
+  color: #434343;
+}
+
+.buttonWrapper {
+  width: 187px;
+  height: 65px;
+  margin: 0 auto;
+  background-color: rgba(195, 96, 207, 0.9);
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.buttonWrapper h4 {
+  line-height: 65px;
+}

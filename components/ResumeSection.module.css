@@ -1,0 +1,42 @@
+.resumeSectionWrapper {
+  width: 100;
+  background-color: #457b9d;
+  min-height: 500px;
+  padding-bottom: 5%;
+}
+.frameFaded {
+  opacity: 0;
+  transition: all 2s ease-out;
+}
+
+.frameFocus {
+  opacity: 1;
+  transition: all 2s ease-out;
+}
+
+.iconWrapper {
+  position: relative;
+  padding-top: 10%;
+  width: 140px;
+  height: 140px;
+  margin: 0 auto;
+  color: #d2eff0;
+}
+
+.icon {
+  width: 140px;
+  height: 140px;
+}
+
+.descriptionWrapper {
+  width: 80%;
+  margin: 0 auto 0 auto;
+  position: relative;
+  color: white;
+  text-align: center;
+  padding-top: 15%;
+}
+
+.descriptionWrapper p {
+  font-size: 18px;
+}
